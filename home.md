@@ -2,7 +2,7 @@
 title: 欢迎
 description: 欢迎来到 UTCSSA Wiki
 published: true
-date: 2021-09-01T11:42:37.853Z
+date: 2021-09-01T11:48:03.546Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-30T16:31:31.328Z
@@ -11,6 +11,7 @@ dateCreated: 2021-08-30T16:31:31.328Z
 > 本页面内容有待完善
 {.is-warning}
 
+![website-logo.png](/images/website-logo.png =x150)
 
 📖 **UTCSSA Wiki** 是一个面向 UT 华人学生、学者的知识库，欢迎所有人为它添砖加瓦！
 
